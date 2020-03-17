@@ -50,7 +50,11 @@ The go libraries are downloaded from the below link, which are essential to exec
 Platform to run Golang programs – Visual Studio Code.
 
 • Set the path after you install go libraries in another drive apart from C drive. The path is as follows
+
 • Path = ”D:\Program Files (x86)\Go\bin”;
+
 • To run the program, use the following command “go run filename.go”.
+
 • To run the Demo.go or any other Golang program file, the command is “go run Demo.go”.
+
 • To run the file using inbuild race detector, the command is “go run -race Main.go”.
